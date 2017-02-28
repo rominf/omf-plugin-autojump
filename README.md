@@ -9,6 +9,7 @@
 
 <br/>
 
+Automatically launch `autojump` helper.
 
 ## Install
 
