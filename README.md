@@ -20,10 +20,7 @@ $ omf install autojump
 
 ## Usage
 
-```fish
-$ autojump
-```
-
+Just use `autojump` normally.
 
 # License
 
